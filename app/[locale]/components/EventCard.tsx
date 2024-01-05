@@ -1,8 +1,8 @@
-import { ProgramCardInterface } from "@/interfaces/programCard.interface";
+import { EventCardInterface } from "@/interfaces/eventsCard.interface";
 import { useTranslations } from "next-intl";
 import { FC } from "react";
 
-const EventCard: FC<ProgramCardInterface> = ({titleKey, descKey, city, price, imageUrl}) => {
+const EventCard: FC<EventCardInterface> = ({titleKey, descKey, city, price, imageUrl}) => {
 
     const t = useTranslations("price");
 
