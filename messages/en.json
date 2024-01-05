@@ -1,0 +1,82 @@
+{
+    "navigation": {
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact",
+        "catering": "Catering",
+        "donate": "Donate"
+    },
+    "page": {
+        "home": {
+            "ourServices": "Our services & programs",
+            "ourEvents": "Our Events"
+        },
+        "contact": {
+            "title": "Let's keep in touch",
+            "subTitle": "We'd love to hear your feedback"
+        },
+        "about": {
+            "ourStoryTitle": "Our Story",
+            "ourStorySubtitle": "Our story began in 2019 when we initiated youth-led projects to serve the community and assist newcomers to Canada. Our initiatives included organizing meetings and events essential for building a healthy community. We continued on this trajectory for years until the opportune moment arrived to announce an entity that unites us all, enabling us to continue serving the community through it.",
+            "ourPhilosophyTitle": "Our Philosophy",
+            "ourPhilosophySubtitle": "A non-profit youth organization and an open house for all youth with cultural diversity. We seek to promote community development by encouraging and developing active and participating youth. We also help and guide newcomers to integrate into society.",
+            "ourMissionTitle": "Our Mission",
+            "ourMissionSubtitle": "Our organization is driven by a deep desire to make a positive impact in our community. We achieve this through our steadfast commitment to our values, which guide our actions and decisions.",
+            "ourVisionTitle": "Our Vision",
+            "ourVisionSubtitle": "Contribute to youth and community development across Canada."
+        },
+        "notFound": {
+            "backButton": "Back Home"
+        },
+        "branch": {
+            "title": "About the branch",
+            "location": "Location",
+            "workHours": "Work Hours",
+            "contact": "Contact info",
+            "sat": "Saturday",
+            "sun": "Sunday",
+            "mon": "Monday",
+            "tues": "Tuesday",
+            "wed": "Wednesday",
+            "thu": "Thursday",
+            "fri": "Friday",
+            "phone": "Phone number"
+        }
+    },
+    "slideshow": {
+        "slide1": "Seminars and Events",
+        "slide2": "Newcomers Programs",
+        "slide3": "Youth programs"
+    },
+    "programs": {
+        "program1title": "Women @ Community",
+        "program1subtitle": "As part of the community, we support women and young girls in several fields of life.",
+        "program2title": "Immigration Support",
+        "program2subtitle": "Guide and support Newcomers Through the Immigration Process.",
+        "program3title": "Education and Jobs",
+        "program3subtitle": "Empowering Individuals on Their Educational and Professional Journey Through Interactive.",
+        "program4title": "Webinars",
+        "program4subtitle": "Hosting Monthly Webinars Open to the Public Across Varied Topics."
+    },
+    "form": {
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "date": "Date",
+        "message": "Message",
+        "thanksMsg": "Thank you for sending your order!",
+        "respondMsg": "We will contact you soon.",
+        "submit": "Submit",
+        "placeholder": {
+            "name": "Full name",
+            "email": "example@domain.com",
+            "phone": "123 456 7890",
+            "message": "Please write your note here"
+        }
+    },
+    "footer": {
+        "contact": "Contact us",
+        "follow": "Follow us",
+        "rightsReserved": "2024© Cayan Organization. All Rights Reserved"
+    }
+}

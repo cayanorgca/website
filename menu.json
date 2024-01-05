@@ -1,0 +1,306 @@
+{
+    "breakfast": [
+        {
+            "key": "hummus",
+            "price": "8.95"
+        },
+        {
+            "key": "hummus_with_beef",
+            "price": "12.95"
+        },
+        {
+            "key": "fatta_hummus",
+            "price": "12.95"
+        },
+        {
+            "key": "fatta_hummus_with_beef",
+            "price": "15.95"
+        },
+        {
+            "key": "eggplant_fatteh",
+            "price": "16.95"
+        },
+        {
+            "key": "labna",
+            "price": "8.95"
+        },
+        {
+            "key": "babaghanoj",
+            "price": "8.95"
+        },
+        {
+            "key": "mutabal",
+            "price": "8.95"
+        },
+        {
+            "key": "falafel_plate",
+            "price": "7.99"
+        },
+        {
+            "key": "grape_leaves",
+            "price": "8.95"
+        },
+        {
+            "key": "qibba_beef",
+            "price": "3.95"
+        },
+        {
+            "key": "zaatar_and_olive_oil",
+            "price": "4.25"
+        },
+        {
+            "key": "liver",
+            "price": "17.95"
+        },
+        {
+            "key": "moqalqal_lamb",
+            "price": "17.95"
+        },
+        {
+            "key": "foul_tawa",
+            "price": "14.95"
+        },
+        {
+            "key": "shakshouka",
+            "price": "14.95"
+        },
+        {
+            "key": "omelette_egg_with_vege_cheese",
+            "price": "14"
+        },
+        {
+            "key": "omelette_egg_with_cheese",
+            "price": "12.95"
+        },
+        {
+            "key": "omelette_egg",
+            "price": "10.95"
+        },
+        {
+            "key": "olives",
+            "price": "2.95"
+        },
+        {
+            "key": "oliver_dip",
+            "price": "3.50"
+        }
+    ],
+    "lunch": [
+        {
+            "key": "chicken_mandi",
+            "price": [
+                {
+                    "key": "quart_price",
+                    "price": "14.95"
+                },
+                {
+                    "key": "half_price",
+                    "price": "24.95"
+                },
+                {
+                    "key": "whole_price",
+                    "price": "39.95"
+                }
+            ]
+        },
+        {
+            "key": "chicken_kabsa",
+            "price": [
+                {
+                    "key": "quart_price",
+                    "price": "14.95"
+                },
+                {
+                    "key": "half_price",
+                    "price": "24.95"
+                },
+                {
+                    "key": "whole_price",
+                    "price": "39.95"
+                }
+            ]
+        },
+        {
+            "key": "lamb_mandi",
+            "price": [
+                {
+                    "key": "single_price",
+                    "price": "29.99"
+                },
+                {
+                    "key": "family_price",
+                    "price": "105"
+                }
+            ]
+        },
+        {
+            "key": "kabsa_lamb",
+            "price": [
+                {
+                    "key": "single_price",
+                    "price": "29.99"
+                },
+                {
+                    "key": "family_price",
+                    "price": "105"
+                }
+            ]
+        },
+        {
+            "key": "okra_soup",
+            "price": "6.95"
+        },
+        {
+            "key": "mulukhiyah_soup",
+            "price": "6.95"
+        },
+        {
+            "key": "tabeekh",
+            "price": "5.95"
+        },
+        {
+            "key": "fries_with_nuggets",
+            "price": "7.95"
+        },
+        {
+            "key": "fries",
+            "price": "3.95"
+        }
+    ],
+    "shawerma": [
+        {
+            "key": "shawerma_chicken",
+            "price": "11.95"
+        },
+        {
+            "key": "shawerma_beef",
+            "price": "11.95"
+        },
+        {
+            "key": "chicken_plate",
+            "price": "16.95"
+        },
+        {
+            "key": "beef_plate",
+            "price": "16.95"
+        }
+    ],
+    "soup": [
+        {
+            "key": "lentil_soup",
+            "price": "6.95"
+        }
+    ],
+    "salads": [
+        {
+            "key": "signature_salad",
+            "price": "9.99"
+        },
+        {
+            "key": "cucumber_yogurt_salad",
+            "price": "4.99"
+        },
+        {
+            "key": "fattoush",
+            "price": "9.99"
+        },
+        {
+            "key": "tabbouleh",
+            "price": "9.99"
+        }
+    ],
+    "desserts": [
+        {
+            "key": "kunefe",
+            "price": "14.95"
+        },
+        {
+            "key": "maasoub",
+            "price": "11.95"
+        },
+        {
+            "key": "rice_pudding",
+            "price": "4.95"
+        },
+        {
+            "key": "chocolate_truffle_cake",
+            "price": "5.95"
+        }
+    ],
+    "drinks": [
+        {
+            "key": "adani_tea",
+            "price": "2.95"
+        },
+        {
+            "key": "red_tea",
+            "price": "2.95"
+        },
+        {
+            "key": "turkish_coffee",
+            "price": "3.95"
+        },
+        {
+            "key": "arabic_coffee_pot",
+            "price": "11.99"
+        },
+        {
+            "key": "orange_juice",
+            "price": "9.95"
+        },
+        {
+            "key": "mango_juice",
+            "price": "9.95"
+        },
+        {
+            "key": "lemon_juice",
+            "price": "9.95"
+        },
+        {
+            "key": "ayran",
+            "price": "3.69"
+        },
+        {
+            "key": "soft_drinks",
+            "price": "2.89"
+        },
+        {
+            "key": "water",
+            "price": "1.00"
+        }
+    ],
+    "side_dishes": [
+        {
+            "key": "rice",
+            "price": "9"
+        },
+        {
+            "key": "extra_lamb",
+            "price": "16.99"
+        },
+        {
+            "key": "samosa",
+            "price": "11.95"
+        },
+        {
+            "key": "garlic_sauce",
+            "price": "1.50"
+        },
+        {
+            "key": "sahawiq",
+            "price": "0.50"
+        },
+        {
+            "key": "raisins",
+            "price": "1.99"
+        },
+        {
+            "key": "thin_sliced_almonds",
+            "price": "1.99"
+        },
+        {
+            "key": "bread",
+            "price": "2.00"
+        }
+    ]
+}

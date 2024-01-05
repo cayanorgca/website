@@ -1,0 +1,82 @@
+{
+    "navigation": {
+        "home": "Accueil",
+        "menu": "Menu",
+        "about": "A prop",
+        "contact": "Nous joindre",
+        "donate": "Don"
+    },
+    "page": {
+        "home": {
+            "ourServices": "Nos services et programmes",
+            "ourEvents": "Nos événements"
+        },
+        "contact": {
+            "title": "Nous joindre",
+            "subTitle": "Nous serions ravis d'entendre vos commentaires"
+        },
+        "about": {
+            "ourStoryTitle": "Notre histoire",
+            "ourStorySubtitle": "Notre histoire a commencé en 2019 lorsque nous avons lancé des projets dirigés par des jeunes pour servir la communauté et aider les nouveaux arrivants au Canada. Nos initiatives comprenaient l’organisation de réunions et d’événements essentiels à la construction d’une communauté saine. Nous avons continué sur cette trajectoire pendant des années jusqu'à ce que le moment opportun arrive pour annoncer une entité qui nous unit tous, nous permettant de continuer à servir la communauté à travers elle.",
+            "ourPhilosophyTitle": "Notre Philosophie",
+            "ourPhilosophySubtitle": "Une organisation de jeunesse à but non lucratif et une journée portes ouvertes pour tous les jeunes issus de la diversité culturelle. Nous cherchons à promouvoir le développement communautaire en encourageant et en développant des jeunes actifs et participants. Nous aidons et guidons également les nouveaux arrivants à s’intégrer dans la société.",
+            "ourMissionTitle": "Notre mission",
+            "ourMissionSubtitle": "Notre organisation est animée par un profond désir d’avoir un impact positif dans notre communauté. Nous y parvenons grâce à notre engagement inébranlable envers nos valeurs, qui guident nos actions et nos décisions.",
+            "ourVisionTitle": "Notre vision",
+            "ourVisionSubtitle": "Contribuer au développement des jeunes et des communautés partout au Canada."
+        },
+        "notFound": {
+            "backButton": "Retour à la page d'accueil"
+        },
+        "branch": {
+            "title": "À propos de la succursale",
+            "location": "Emplacement",
+            "workHours": "Heures de travail",
+            "contact": "Coordonnées",
+            "sat": "Samedi",
+            "sun": "Dimanche",
+            "mon": "Lundi",
+            "tues": "Mardi",
+            "wed": "Mercredi",
+            "thu": "Jeudi",
+            "fri": "Vendredi",
+            "phone": "Numéro de téléphone"
+        }
+    },
+    "slideshow": {
+        "slide1": "Séminaires et événements",
+        "slide2": "Programmes pour nouveaux arrivants",
+        "slide3": "Programmes jeunesse"
+    },
+    "programs": {
+        "program1title": "Femmes @ Communauté",
+        "program1subtitle": "En tant que membre de la communauté, nous accompagnons les femmes et les jeunes filles dans plusieurs domaines de la vie.",
+        "program2title": "Soutien à l'immigration",
+        "program2subtitle": "Guider et soutenir les nouveaux arrivants tout au long du processus d’immigration.",
+        "program3title": "Éducation et emploi",
+        "program3subtitle": "Donner aux individus les moyens de leur parcours éducatif et professionnel grâce à l'interactivité.",
+        "program4title": "Webinaires",
+        "program4subtitle": "Hébergement de webinaires mensuels ouverts au public sur des sujets variés."
+    },
+    "form": {
+        "name": "Nom",
+        "email": "Courriel",
+        "phone": "Numéro de téléphone",
+        "date": "La datte",
+        "message": "Le message",
+        "thanksMsg": "Merci d'avoir envoyé votre commande!",
+        "respondMsg": "Nous vous contacterons bientôt.",
+        "submit": "Soumettre",
+        "placeholder": {
+            "name": "Nom",
+            "email": "example@domain.com",
+            "phone": "123 456 7890",
+            "message": "Veuillez écrire votre note ici"
+        }
+    },
+    "footer": {
+        "contact": "Nous joindre",
+        "follow": "Suivez-nous",
+        "rightsReserved": "2024© Cayan Organisation. Tous droits réservés"
+    }
+}
